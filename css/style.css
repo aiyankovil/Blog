@@ -321,8 +321,8 @@ button {
 /* About Me (Left Sidebar) */	
 
 .about-fixed {
-    position: fixed;
-    width: 20.8%;
+  
+    width: 100%;
 }
 
 .my-pic {
